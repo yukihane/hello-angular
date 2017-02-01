@@ -1,7 +1,7 @@
+.vscode/
 
-# Created by https://www.gitignore.io/api/n,node,webstorm,visualstudiocode
+# Created by https://www.gitignore.io/api/node,webstorm,visualstudiocode
 
-#!! ERROR: n is undefined. Use list command to see defined gitignore types !!#
 
 ### Node ###
 # Logs
